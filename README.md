@@ -11,3 +11,4 @@ El proyecto está organizado en las siguientes secciones principales:
 * Pruebas: Contienen las pruebas unitarias y de integración.
 
 # Diagrama 
+![diagrama](https://github.com/user-attachments/assets/4b7d053c-abf6-4832-bf17-e8c638bcacbd)
