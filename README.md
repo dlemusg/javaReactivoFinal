@@ -1,5 +1,5 @@
 # Taller Final
-Este proyecto es un servicio de ejemplo para gestionar usuarios y transacciones en una aplicación de Spring Boot con WebFlux y pruebas unitarias. La aplicación incluye endpoints para manejar operaciones CRUD de usuarios y gestión de transacciones de cashout.
+Este proyecto es un servicio de ejemplo para gestionar usuarios y transacciones en una aplicación de Spring Boot con WebFlux y pruebas unitarias. La aplicación incluye endpoints para manejar operaciones CRUD de  gestión de transacciones de cashout.
 
 # Estructura del Proyecto
 El proyecto está organizado en las siguientes secciones principales:
