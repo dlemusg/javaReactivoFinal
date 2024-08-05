@@ -9,3 +9,5 @@ El proyecto está organizado en las siguientes secciones principales:
 * Modelos: Definen las estructuras de datos utilizadas en la aplicación.
 * Excepciones: Definen las excepciones personalizadas.
 * Pruebas: Contienen las pruebas unitarias y de integración.
+
+# Diagrama 
